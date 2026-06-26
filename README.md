@@ -10,3 +10,17 @@ During the **Sign In** process, an existing user enters their username or email 
 The OOP concept of **Encapsulation** keeps user data private and allows access only through specific methods. **Inheritance** enables different user types, such as Admin and Customer, to share common features while adding their own functionalities. **Polymorphism** allows the same method to behave differently for different user types, and **Abstraction** hides unnecessary implementation details from the user.
 
 Overall, the OOP-based Sign In/Sign Up system provides a secure, modular, and scalable solution for user authentication. It reduces code duplication, improves readability, simplifies maintenance, and makes it easier to add new features in the future.
+📌object and classes 
+
+📌 Encapsulation – securing user data inside a class
+
+📌 Abstraction – simplifying the authentication logic
+
+📌Modularity – writing structured and reusable code
+
+📌Constructor
+
+📌Destructor 
+
+📌Dynamic memory allocation 
+
